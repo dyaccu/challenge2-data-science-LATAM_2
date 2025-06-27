@@ -104,6 +104,13 @@ Si querés colaborar o tenés dudas sobre este proyecto, no dudes en contactarme
 
 ---
 
+## 🛡️ Insignia
+
+La realización y entrega de este proyecto otorgó una exclusiva insignia:
+
+![Badge Challenge TelecomX Analisis Evasión Clientes - Alura](https://cdn1.gnarususercontent.com.br/6/409126/832d01c5-aa1f-4a72-894b-9bb18b8d2a00.png)
+
+---
 ¡Gracias por tu interés en el análisis de cancelación de Telecom X!
 
 
